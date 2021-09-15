@@ -1,1 +1,1 @@
-# OpenCV-hand-tracking-
+# OpenCV-hand-tracking
